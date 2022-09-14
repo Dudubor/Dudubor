@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Dudubor
-- 👀 I’m interested in working as a trainee
-- 🌱 I’m currently learning Analysis and System Development
-- 💞️ I’m looking to collaborate on Coding and Process Maping
-- 📫 How to reach me dudubor2003@gmail.com
+- 👋 Olá, me chamo Eduardo
+- 👀 Estou buscando por vagas de Estagiario em Desenvolvimento de Sistemas
+- 🌱 Possuo conhecimentos em Infraestrutura de Redes e programação
+- 📫 Email para contato: dudubor2003@gmail.com
 
 <!---
 Dudubor/Dudubor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
