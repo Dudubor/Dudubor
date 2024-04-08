@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Eduardo
-- 👀 Estou buscando por vagas de Estagiario em Desenvolvimento de Sistemas
+- 👀 Estou buscando por vagas de Estagiario em Desenvolvimento de software
 - 🌱 Possuo conhecimentos em Infraestrutura de Redes e programação
 - 📫 Email para contato: dudubor2003@gmail.com
 
