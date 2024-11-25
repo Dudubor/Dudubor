@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🚀 I’m a Full Stack Developer passionate about technology and innovation <br>- 🔭 I’m working with Node.js, Typescript and React.js<br>- 📚 I'm currently learning Vue.js, Go, AWS</p>
+<p align="left">- 🚀 I’m a Full Stack Developer passionate about technology and innovation <br>- 👩‍💻 Currently working in Sbcert and Syncorp<br>- 🔭 I’m working with Node.js, Typescript and React.js<br>- 📚 I'm currently learning Vue.js, Go, AWS</p>
 
 ###
 
